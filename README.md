@@ -23,6 +23,7 @@ apply GST, and generate an itemized receipt.
    javac Resbill.java
 2. Run the program:
    java Resbill
+📌 Note: The complete source code for this project is available in the `master` branch.
 
 ## Author
 Ayesha
