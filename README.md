@@ -20,9 +20,9 @@ apply GST, and generate an itemized receipt.
 
 ## How to Run
 1. Compile the program:
-   javac RestaurantBillingSystem.java
+   javac Resbill.java
 2. Run the program:
-   java RestaurantBillingSystem
+   java Resbill
 
 ## Author
 Ayesha
